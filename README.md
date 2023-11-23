@@ -14,7 +14,7 @@ private_key -> 你的私鑰
 
 nums -> 要打多少張
 
-data = 'data:,{"p":"asc-20","op":"mint","tick":"aval","amt":"100000000"}'  # 換為要打的銘文內容
+data -> 換為要打的銘文內容
 
 
 
