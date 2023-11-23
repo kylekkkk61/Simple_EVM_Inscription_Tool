@@ -1,4 +1,4 @@
-# Evm_Inscription_PY
+# Evm_Inscription
 本腳本用於自轉打銘文用途，僅限EVM使用，目前BSC鏈暫不支援，任何問題可至推特詢問
 
 推特 https://twitter.com/kylekkkkwu61
